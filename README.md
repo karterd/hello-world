@@ -1,2 +1,5 @@
 # hello-world
 first repository
+
+HELLO EVERYONE
+GITHUB IS TELLING ME TO WRITE A MESSAGE TO YOU ALL
